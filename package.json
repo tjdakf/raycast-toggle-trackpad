@@ -16,6 +16,7 @@
     {
       "name": "toggle-trackpad",
       "title": "Toggle Trackpad",
+      "subtitle": "System",
       "description": "Toggle whether the built-in trackpad is ignored when a mouse or wireless trackpad is connected.",
       "mode": "no-view"
     }
